@@ -1,0 +1,24 @@
+{
+  "name": "cypress-ui-automation",
+  "version": "1.0.0",
+  "description": "Este repositorio es un proyecto para agregar a mi QA Automation Portfolio, donde se trabajaran ejercicios prácticos de cypress básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenvatest/cypress-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karenvatest/cypress-ui-automation/issues"
+  },
+  "homepage": "https://github.com/karenvatest/cypress-ui-automation#readme",
+  "devDependencies": {
+    "cypress": "^16.1.0"
+  }
+}
