@@ -191,14 +191,14 @@ Continue applying Cypress to more realistic QA Automation scenarios:
 
 🟠 In Progress
 
-This repository is part of my learning portfolio as I transition from Manual QA to QA Automation.
+- This repository is part of my learning portfolio as I transition from Manual QA to QA Automation.
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Karen Gisela Valdez Betancourt
 
 QA Manual Engineer | QA Automation in Progress
 
-** ⭐ Learning by building, testing and automating. **
+**⭐ Learning by building, testing and automating.**
